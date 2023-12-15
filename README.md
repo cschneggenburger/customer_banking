@@ -6,10 +6,10 @@ This repository contains a program that mimics a customer banking system that wi
 
 ### Files in this Repo: ###
 
-* Account.py - contains the Account class with methods to set the balance and interest
+* *Account.py* - contains the Account class with methods to set the balance and interest
 
-* cd_account.py - houses the create_cd_account function that will create a CD account   instance, calculate the interest earned based on user input, update the account balance with earned interest, and return the updated balance and interest earned.
+* *cd_account.py* - houses the create_cd_account function that will create a CD account   instance, calculate the interest earned based on user input, update the account balance with earned interest, and return the updated balance and interest earned.
    
-* savings_account.py - houses the create_savings_account function that will create a CD account instance, calculate the interest earned based on user input, update the account balance with earned interest, and return the updated balance and interest earned.
+* *savings_account.py* - houses the create_savings_account function that will create a CD account instance, calculate the interest earned based on user input, update the account balance with earned interest, and return the updated balance and interest earned.
 
-* customer_banking.py - this file is where the main function will reside and prompt the user to enter the savings and CD account details, call the corresponding functions to calculate the interest earned and update the balances, and display the results.
+* *customer_banking.py* - this file is where the main function will reside and prompt the user to enter the savings and CD account details, call the corresponding functions to calculate the interest earned and update the balances, and display the results.
