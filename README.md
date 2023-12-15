@@ -1,7 +1,8 @@
 # customer_banking #
 This repository is used for the Module 3 challenge of the UNC Chapel Hill AI Bootcamp course. 
 
-## Description ##: This repository contains a program that mimics a customer banking system that will allow the user to calculate and track interest earned on savings and CD accounts. By running this applicaiton, users will be able to enter their savings and CD account information, see the interest earned, and view the updated balances after a specified number of months.
+## Description ##
+This repository contains a program that mimics a customer banking system that will allow the user to calculate and track interest earned on savings and CD accounts. By running this applicaiton, users will be able to enter their savings and CD account information, see the interest earned, and view the updated balances after a specified number of months.
 
 ### Files in this Repo: ###
 
